@@ -1,0 +1,24 @@
+{
+  "name": "angular-url-handler",
+  "version": "1.0.0",
+  "description": "This Angular module is helpful when you need to work with URL as String in Angular.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xilenomg/angular-url-handler.git"
+  },
+  "keywords": [
+    "angular",
+    "url",
+    "handler"
+  ],
+  "author": "Luis Felipe Corrêa Pérez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xilenomg/angular-url-handler/issues"
+  },
+  "homepage": "https://github.com/xilenomg/angular-url-handler#readme"
+}
